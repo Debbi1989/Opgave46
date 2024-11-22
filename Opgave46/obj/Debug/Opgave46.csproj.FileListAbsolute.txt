@@ -1,0 +1,7 @@
+C:\Users\Bruger\OneDrive\Dokumenter\TEC\Programmering\Opgave46\Opgave46\obj\Debug\Opgave46.csproj.AssemblyReference.cache
+C:\Users\Bruger\OneDrive\Dokumenter\TEC\Programmering\Opgave46\Opgave46\obj\Debug\Opgave46.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Dokumenter\TEC\Programmering\Opgave46\Opgave46\bin\Debug\Opgave46.exe.config
+C:\Users\Bruger\OneDrive\Dokumenter\TEC\Programmering\Opgave46\Opgave46\bin\Debug\Opgave46.exe
+C:\Users\Bruger\OneDrive\Dokumenter\TEC\Programmering\Opgave46\Opgave46\bin\Debug\Opgave46.pdb
+C:\Users\Bruger\OneDrive\Dokumenter\TEC\Programmering\Opgave46\Opgave46\obj\Debug\Opgave46.exe
+C:\Users\Bruger\OneDrive\Dokumenter\TEC\Programmering\Opgave46\Opgave46\obj\Debug\Opgave46.pdb
